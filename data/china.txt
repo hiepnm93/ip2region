@@ -1,102 +1,102 @@
-广东省:Guangdong Province
+广东省:Guangdong_Province
 亚特兰大:Atlanta
-白山市:White Hill City
+白山市:White_Hill_City
 肯达里:Kendari
-台东县:Taitung County
-金瓯省:Jinou Province
-文莱电信:Brunei Telecom
+台东县:Taitung_County
+金瓯省:Jinou_Province
+文莱电信:Brunei_Telecom
 韩国:Korea
 姬路:Himeji
 西藏:Tibet
 约旦:Jordan
 西姆拉:Shimla
-大同市:Datong City
-新北:New Taipei
-圣彼得堡:saint petersburg
+大同市:Datong_City
+新北:New_Taipei
+圣彼得堡:saint_petersburg
 钦奈:Chennai
 丹麦:Denmark
 霍巴特:Hobart
-义安省:Nghe An Province
+义安省:Nghe_An_Province
 大津:Otsu
 塔斯马尼亚:Tasmania
 珀斯:Perth
 多米尼克:Dominica
 奥尔巴尼:Albany
 曼谷:Bangkok
-南达科他:South dakota
-张家口市:Zhangjiakou City
-韶关市:Shaoguan City
+南达科他:South_dakota
+张家口市:Zhangjiakou_City
+韶关市:Shaoguan_City
 布什尔:Bushehr
-云浮市:Yunfu City
-圣路易斯:San Luis
-呼伦贝尔市:Hulunbuir City
+云浮市:Yunfu_City
+圣路易斯:San_Luis
+呼伦贝尔市:Hulunbuir_City
 留尼旺:Reunion
 河内:Hanoi
-三亚市:Sanya City
-圣皮埃尔和密克隆群岛:Saint Pierre and Miquelon
-斑鸠城:Ikaruga Castle
-彰化县:Changhua County
-丹东市:Dandong City
+三亚市:Sanya_City
+圣皮埃尔和密克隆群岛:Saint_Pierre_and_Miquelon
+斑鸠城:Ikaruga_Castle
+彰化县:Changhua_County
+丹东市:Dandong_City
 哥印拜陀:Coimbatore
 寝屋川:Neyagawa
 安那罕:Anaheim
-福建省:Fujian Province
+福建省:Fujian_Province
 爱尔兰:Ireland
-丽水市:Yeosu City
+丽水市:Yeosu_City
 法里达巴德:Faridabad
 曼尼托巴:Manitoba
 德波:Debord
-萨尔瓦多:El Salvador
+萨尔瓦多:El_Salvador
 蒙塞拉特岛:Montserrat
-肇庆市:Zhaoqing City
+肇庆市:Zhaoqing_City
 哥伦打洛:Gorontalo
-圣费尔南多:San fernando
-北美地区:North America
-开曼群岛:Cayman Islands
+圣费尔南多:San_fernando
+北美地区:North_America
+开曼群岛:Cayman_Islands
 塔拉哈西:Tallahassee
 加利福尼亚:California
-湖南广电:Hunan Radio and Television
+湖南广电:Hunan_Radio_and_Television
 匈牙利:Hungary
-广东广电:Guangdong Radio and Television
-北爱尔兰:Northern Ireland
-大熊湖:Big Bear Lake
+广东广电:Guangdong_Radio_and_Television
+北爱尔兰:Northern_Ireland
+大熊湖:Big_Bear_Lake
 奥里萨:Orissa
-鄂尔多斯市:Ordos City
-周口市:Zhoukou City
-陕西广电:Shaanxi Radio and Television
+鄂尔多斯市:Ordos_City
+周口市:Zhoukou_City
+陕西广电:Shaanxi_Radio_and_Television
 佐治亚:Georgia
 托克劳群岛:Tokelau
-白城市:White City
+白城市:White_City
 基里巴斯:Kiribati
 蒙哥马利:Montgomery
 伊拉克:Iraq
-景德镇市:Jingdezhen City
-圣文森特和格林纳丁斯:Saint Vincent and the Grenadines
-圣凯瑟琳斯:St. Catharines
+景德镇市:Jingdezhen_City
+圣文森特和格林纳丁斯:Saint_Vincent_and_the_Grenadines
+圣凯瑟琳斯:St._Catharines
 俄罗斯:Russia
 甘托克:Gangtok
-巴厘省:Province of Bali
+巴厘省:Province_of_Bali
 坎卢普斯:Kamloops
 坎普尔:Kanpur
-信阳市:Xinyang City
-娄底市:Loudi City
-中卫市:Zhongwei City
+信阳市:Xinyang_City
+娄底市:Loudi_City
+中卫市:Zhongwei_City
 安克雷奇:Anchorage
-上海教委:Shanghai Education Commission
+上海教委:Shanghai_Education_Commission
 北干巴鲁:Pekanbaru
-南乔治亚岛和南桑威奇群岛:South Georgia and the South Sandwich Islands
-TPG电信:TPG Telecom
-益梭通府:Yi Sot Tong Province
+南乔治亚岛和南桑威奇群岛:South_Georgia_and_the_South_Sandwich_Islands
+TPG电信:TPG_Telecom
+益梭通府:Yi_Sot_Tong_Province
 北京:Beijing
-贵州广电:Guizhou Radio and Television
+贵州广电:Guizhou_Radio_and_Television
 沙缴府:Sakhoo
-北海市:Beihai City
-俄克拉何马城:Oklahoma city
-科斯塔梅萨:Costa Mesa
+北海市:Beihai_City
+俄克拉何马城:Oklahoma_city
+科斯塔梅萨:Costa_Mesa
 吉尔吉斯斯坦:Kyrgyzstan
 迪庆:Diqing
 阿卡迈:Akamai
-广西广电:Guangxi Radio and Television
+广西广电:Guangxi_Radio_and_Television
 康科德:Concord
 乌拉圭:Uruguay
 斯利那加:Srinagar
@@ -107,609 +107,609 @@ TPG电信:TPG Telecom
 费利蒙:Feremont
 孟买:Bombay
 布兰特福德:Brantford
-森美兰:Negeri Sembilan
+森美兰:Negeri_Sembilan
 康涅狄格:Connecticut
 印度:India
 广西:Guangxi
 科威特:Kuwait
-神奈川县:Kanagawa Prefecture
-珠海市:Zhuhai City
-茶荣省:Tra Vinh Province
-金昌市:Jinchang City
+神奈川县:Kanagawa_Prefecture
+珠海市:Zhuhai_City
+茶荣省:Tra_Vinh_Province
+金昌市:Jinchang_City
 哈特福德:Hartford
 塞内加尔:Senegal
-贵港市:Guigang City
-陇南市:Longnan City
-东内格罗省:Province of Negro Oriental
+贵港市:Guigang_City
+陇南市:Longnan_City
+东内格罗省:Province_of_Negro_Oriental
 淮安:Huai'an
-新南威尔士:New South Wales
-淄博市:Zibo City
-圣安那:St. Anna
+新南威尔士:New_South_Wales
+淄博市:Zibo_City
+圣安那:St._Anna
 巨港:Palembang
 库比蒂诺:Cupertino
 雅加达:Jakarta
-长春市:Changchun city
+长春市:Changchun_city
 夏威夷:Hawaii
 大阪府:Osaka
-赤道几内亚:Equatorial Guinea
-湖北省:Hubei Province
-刚果布:Congo Brazzaville
+赤道几内亚:Equatorial_Guinea
+湖北省:Hubei_Province
+刚果布:Congo_Brazzaville
 英帕尔:Imphal
 斋浦尔:Jaipur
 肯塔基:Kentucky
-榆林市:Yulin City
-麦加地区:Mecca region
-泰安市:Tai'an City
+榆林市:Yulin_City
+麦加地区:Mecca_region
+泰安市:Tai'an_City
 迈索尔:Mysore
 萨斯卡通:Saskatoon
 秘鲁:Peru
 圣地亚哥:Santiago
 渥太华:Ottawa
-猜也奔府:Guess also Benfu
+猜也奔府:Guess_also_Benfu
 富士:Fuji
 碧差汶府:Phetchabun
 克孜勒苏:Kyzylsu
-南三宝颜省:South Zamboanga Province
+南三宝颜省:South_Zamboanga_Province
 马约特:Mayotte
-圣巴泰勒米:Saint Barthélemy
-牡丹江市:Mudanjiang City
-廖内省:Riau Province
+圣巴泰勒米:Saint_Barthélemy
+牡丹江市:Mudanjiang_City
+廖内省:Riau_Province
 郑州:Zhengzhou
 罗马尼亚:Romanian
-得梅因:Des moines
-五所川原:Gosho Kawahara
+得梅因:Des_moines
+五所川原:Gosho_Kawahara
 海地:Haiti
 克罗地亚:Croatia
-谅山省:Lang Son Province
+谅山省:Lang_Son_Province
 塔那:Tana
 瓦多达拉:Vadodara
-星通讯:Star Communications
-陶公府:Tao Gong Mansion
+星通讯:Star_Communications
+陶公府:Tao_Gong_Mansion
 叙利亚:Syria
 索马里:Somalia
-洛杉矶:Los Angeles
-西努沙登加拉:West Nusa Tenggara
+洛杉矶:Los_Angeles
+西努沙登加拉:West_Nusa_Tenggara
 阿克苏:Aksu
 莫桑比克:Mozambique
-北榄坡府:Samut Prakan
-红河:Red River
+北榄坡府:Samut_Prakan
+红河:Red_River
 悉尼:Sydney
 本地治里:Pondicherry
-伊春市:Yichun City
+伊春市:Yichun_City
 博茨瓦纳:Botswana
-西爪哇:West Java
+西爪哇:West_Java
 万隆:Bandung
 亚拉巴马:Alabama
-齐齐哈尔市:Qiqihar City
-赣州市:Ganzhou City
+齐齐哈尔市:Qiqihar_City
+赣州市:Ganzhou_City
 俄勒冈:Oregon
-巴西兰省:Province of Brazil
+巴西兰省:Province_of_Brazil
 多佛:Dover
-晋城市:Jincheng City
-北三宝颜省:North Zamboanga Province
+晋城市:Jincheng_City
+北三宝颜省:North_Zamboanga_Province
 吐鲁番:Turpan
-开封市:Kaifeng city
+开封市:Kaifeng_city
 格陵兰:Greenland
 槟州:Penang
-南通市:Nantong City
-黔东南:Southeast of Guizhou
+南通市:Nantong_City
+黔东南:Southeast_of_Guizhou
 列宁格勒:Leningrad
-泉州市:Quanzhou City
+泉州市:Quanzhou_City
 海西:Hercynian
 直布罗陀:Gibraltar
-南充市:Nanchong City
+南充市:Nanchong_City
 缅甸:Myanmar
-包头市:Baotou City
-钦州市:Qinzhou City
-美国:United States
-阿森松岛:Ascension Island
+包头市:Baotou_City
+钦州市:Qinzhou_City
+美国:United_States
+阿森松岛:Ascension_Island
 魁北克:Quebec
 川越:Kawagoe
-美属维尔京群岛:United States Virgin Islands
-广南省:Quang Nam Province
+美属维尔京群岛:United_States_Virgin_Islands
+广南省:Quang_Nam_Province
 喀拉拉:Kerala
-东萨马省:Eastern Samar Province
-岛根县:Shimane Prefecture
-德国电信:Germany Telekom
+东萨马省:Eastern_Samar_Province
+岛根县:Shimane_Prefecture
+德国电信:Germany_Telekom
 艾奥瓦:Iowa
 哈里斯堡:Harrisburg
 马耳他:Malta
-贵阳市:Guiyang City
+贵阳市:Guiyang_City
 挪威:Norway
-SK宽带:SK Broadband
-定西市:Dingxi City
+SK宽带:SK_Broadband
+定西市:Dingxi_City
 巴西:Brazil
-温州市:Wenzhou City
+温州市:Wenzhou_City
 澳门:Macau
-铜川市:Tongchuan City
-奈良县:Nara Prefecture
-青岛市:Qingdao City
-龙仔厝府:Lung Tsai House
-乌泰他尼府:Uthai Thani
-咸阳市:Xianyang City
+铜川市:Tongchuan_City
+奈良县:Nara_Prefecture
+青岛市:Qingdao_City
+龙仔厝府:Lung_Tsai_House
+乌泰他尼府:Uthai_Thani
+咸阳市:Xianyang_City
 台拉登:Dehradun
-遵义市:Zunyi City
-台湾之星:Star of Taiwan
+遵义市:Zunyi_City
+台湾之星:Star_of_Taiwan
 卢旺达:Rwanda
-吴忠市:Wuzhong City
-中爪哇:Central Java
-库克群岛:Cook Islands
+吴忠市:Wuzhong_City
+中爪哇:Central_Java
+库克群岛:Cook_Islands
 突尼斯:Tunisia
-临汾市:Linfen City
+临汾市:Linfen_City
 密西沙加:Mississauga
 纳米比亚:Namibia
 西冷:Sirloin
-岩手县:Iwate Prefecture
+岩手县:Iwate_Prefecture
 密歇根:Michigan
-兵库县:Hyogo Prefecture
-内江市:Neijiang City
-乌汶府:Ubon Ratchathani
+兵库县:Hyogo_Prefecture
+内江市:Neijiang_City
+乌汶府:Ubon_Ratchathani
 锡尔瓦萨:Silvassa
-信实通信:Fidelity Communications
-阿坝藏族羌族自治州:Aba Tibetan and Qiang Autonomous Prefecture
+信实通信:Fidelity_Communications
+阿坝藏族羌族自治州:Aba_Tibetan_and_Qiang_Autonomous_Prefecture
 奥林匹亚:Olympia
 比哈尔:Bihar
-香港新世界:Hong Kong New World
-京都府:Kyoto Prefecture
+香港新世界:Hong_Kong_New_World
+京都府:Kyoto_Prefecture
 彭亨州:Pahang
 腾讯:Tencent
 武汉市:Wuhan
 科进:WSP
 澳门电讯:CTM
-太平省:Taiping Province
-芜湖市:Wuhu city
-怀化市:Huaihua City
+太平省:Taiping_Province
+芜湖市:Wuhu_city
+怀化市:Huaihua_City
 津:saliva
 布里斯班:Brisbane
 芝加哥:Chicago
-莱洲省:Lae Chau Province
-越南邮电:Viet Nam Post and Telecommunications
+莱洲省:Lae_Chau_Province
+越南邮电:Viet_Nam_Post_and_Telecommunications
 苏拉特:Surat
-鄂州市:Ezhou City
-海南广电:Hainan Radio and Television
-不列颠哥伦比亚:British Colombia
-香港:Hong Kong
+鄂州市:Ezhou_City
+海南广电:Hainan_Radio_and_Television
+不列颠哥伦比亚:British_Colombia
+香港:Hong_Kong
 格鲁吉亚:Georgia
 阿加尔塔拉:Agartala
-甲米地省:Cavite Province
+甲米地省:Cavite_Province
 安的列斯:Antilles
 滨松:Hamamatsu
-福克兰群岛:Falkland Islands
+福克兰群岛:Falkland_Islands
 巴林:Bahrain
-塞拉利昂:Sierra Leone
-香港流动通讯:Hong Kong Mobile
+塞拉利昂:Sierra_Leone
+香港流动通讯:Hong_Kong_Mobile
 恰蒂斯加尔:Chhattisgarh
 黎府:Loei
-乐山市:Leshan City
-新乡市:Xinxiang City
-北阿坎德:Uttarakhand Uttarhand
-阜阳市:Fuyang City
+乐山市:Leshan_City
+新乡市:Xinxiang_City
+北阿坎德:Uttarakhand_Uttarhand
+阜阳市:Fuyang_City
 北碧府:Kanchanaburi
 吉朗:Geelong
 育空:Yukon
-纽约:New York
-菏泽市:Heze City
-阿里云:Alibaba Cloud
-爱知县:Aichi Prefecture
+纽约:New_York
+菏泽市:Heze_City
+阿里云:Alibaba_Cloud
+爱知县:Aichi_Prefecture
 马尔代夫:Maldives
 临夏:Linxia
-吕梁市:Lvliang City
-北马鲁古:North Maluku
+吕梁市:Lvliang_City
+北马鲁古:North_Maluku
 高哈蒂:Gohati
-新泻县:Niigata Prefecture
-旧金山:San Francisco
-新罕布什尔:New hampshire
+新泻县:Niigata_Prefecture
+旧金山:San_Francisco
+新罕布什尔:New_hampshire
 马萨诸塞:Massachusetts
-朔州市:Shuozhou City
+朔州市:Shuozhou_City
 临汾:Linfen
-铜陵市:Tongling City
+铜陵市:Tongling_City
 横滨:Yokohama
 毕节:Bijie
 吉林:Jilin
 曼尼普尔:Manipur
-酒泉市:Jiuquan City
+酒泉市:Jiuquan_City
 猜那府:Chainaburi
-益阳市:Yiyang City
-广元市:Guangyuan City
+益阳市:Yiyang_City
+广元市:Guangyuan_City
 爱沙尼亚:Estonia
-平顶山市:Pingdingshan City
+平顶山市:Pingdingshan_City
 蒙特利:Monterey
-老挝电信:Laos Telecom
+老挝电信:Laos_Telecom
 阿坝:Aba
 马杜赖:Madurai
-南卡罗来纳:South carolina
+南卡罗来纳:South_carolina
 多哈:Doha
-开普敦:Cape Town
-茨城县:Ibaraki Prefecture
+开普敦:Cape_Town
+茨城县:Ibaraki_Prefecture
 马诺夸里:Manokwari
-桑德贝:Thunder Bay
+桑德贝:Thunder_Bay
 伦敦:London
-廊磨喃蒲府:Lang Mo Lam Pu House
+廊磨喃蒲府:Lang_Mo_Lam_Pu_House
 帕卢:Palu
 约翰内斯堡:Johannesburg
-英国:United Kingdom
-攀牙府:Phang Nga
-长沙市:Changsha city
+英国:United_Kingdom
+攀牙府:Phang_Nga
+长沙市:Changsha_city
 佛蒙特:Vermont
 怀俄明:Wyoming
 黎巴嫩:Lebanon
 沙敦府:Satun
-群马县:Gunma Prefecture
-兴安省:Hung Yen Province
+群马县:Gunma_Prefecture
+兴安省:Hung_Yen_Province
 巴厘巴板:Balikpapan
-西安市:Xi'an City
-南平市:Nanping City
+西安市:Xi'an_City
+南平市:Nanping_City
 法国:France
 津巴布韦:Zimbabwe
 内华达:Nevada
 圣克拉拉:Clara
 凯恩斯:Keynes
-新泽西:New jersey
+新泽西:New_jersey
 台南:Tainan
 麦凯:Mckay
-刚果金:Democratic Republic of the Congo
+刚果金:Democratic_Republic_of_the_Congo
 土耳其:Turkey
 喀什:Kashi
-达沃省:Davao Province
-美国电话电报:United States Telephone and Telegraph
+达沃省:Davao_Province
+美国电话电报:United_States_Telephone_and_Telegraph
 潘吉姆:Panjim
-沙特阿拉伯:Saudi Arabia
-特克斯和凯科斯群岛:Turks and Caicos Islands
-华数传媒:Wasu Media
-朝阳:Chao yang
+沙特阿拉伯:Saudi_Arabia
+特克斯和凯科斯群岛:Turks_and_Caicos_Islands
+华数传媒:Wasu_Media
+朝阳:Chao_yang
 斯威士兰:Swaziland
 恩施:Enshi
-驻马店市:Zhumadian City
-鹏博士:Dr. Peng
-上饶市:Shangrao City
-苏州市:Suzhou City
-兰州市:Lanzhou City
-宫崎县:Miyazaki Prefecture
-日本电信电话:Japan Telecom
-资阳市:Ziyang City
-嘉兴市:Jiaxing City
+驻马店市:Zhumadian_City
+鹏博士:Dr._Peng
+上饶市:Shangrao_City
+苏州市:Suzhou_City
+兰州市:Lanzhou_City
+宫崎县:Miyazaki_Prefecture
+日本电信电话:Japan_Telecom
+资阳市:Ziyang_City
+嘉兴市:Jiaxing_City
 大连:Dalian
 尤里卡:Eureka
 内洛尔:Nellore
-铁岭市:Tieling City
+铁岭市:Tieling_City
 马六甲:Malacca
-保定市:Baoding City
-海防市:Hai Phong City
-云南省:Yunnan Province
+保定市:Baoding_City
+海防市:Hai_Phong_City
+云南省:Yunnan_Province
 马里兰:maryland
-辽宁省:Liaoning Province
-北达沃省:North Davao Province
+辽宁省:Liaoning_Province
+北达沃省:North_Davao_Province
 东京都:Tokyo
-多农省:Dorong Province
-麦克默里堡:Fort McMurray
-曲靖市:Qujing City
+多农省:Dorong_Province
+麦克默里堡:Fort_McMurray
+曲靖市:Qujing_City
 明尼阿波利斯:Minneapolis
-后江省:Hou Giang Province
+后江省:Hou_Giang_Province
 明尼苏达:Minnesota
 瑞典:Sweden
-新西兰:New Zealand
+新西兰:New_Zealand
 德克萨斯:Texas
 脸书:Facebook
 根西岛:Guernsey
-北江省:Bac Giang Province
+北江省:Bac_Giang_Province
 赞比亚:Zambia
 皮尔:Pierre
 安德拉:Andra
 帕萨迪纳:Pasadena
-西班牙电信:Telecom Spain
+西班牙电信:Telecom_Spain
 俄亥俄:Ohio
-马来西亚电信:Telekom Malaysia
-苏丹库达拉省:Sultan Kudara Province
-汶干府:Bungkan Province
+马来西亚电信:Telekom_Malaysia
+苏丹库达拉省:Sultan_Kudara_Province
+汶干府:Bungkan_Province
 也门:Yemen
 温莎:Windsor
-拉农府:Ranong Province
+拉农府:Ranong_Province
 三联市:Tri-city
 阿鲁纳恰尔:Arunachal
-鹰潭市:Yingtan City
+鹰潭市:Yingtan_City
 阿穆达巴:Amudaba
-吉林省:Jilin Province
+吉林省:Jilin_Province
 南邦府:Lampang
 乌克兰:Ukraine
 智利:Chile
 甘孜:Ganzi
-永隆省:Vinh Long Province
-安顺市:Anshun City
+永隆省:Vinh_Long_Province
+安顺市:Anshun_City
 达尔文:Darwin
 玛琅:Malang
 伊斯法罕:Isfahan
 田纳西:Tennessee
-台州市:Taizhou City
-安徽省:Anhui Province
+台州市:Taizhou_City
+安徽省:Anhui_Province
 哥伦布:Columbus
 纳西克:Nashik
 迪拜:Dubai
-扬州市:Yangzhou City
+扬州市:Yangzhou_City
 扎因:Zain
-波多黎各:Puerto Rico
+波多黎各:Puerto_Rico
 日喀则:Shigatse
 温尼伯:Winnipeg
 托皮卡:Topeka
-三重县:Mie Prefecture
-吉安市:Ji'an City
+三重县:Mie_Prefecture
+吉安市:Ji'an_City
 卡塔尔:Qatar
-博达伦府:Bodalen House
-索索贡省:Sosogun Province
+博达伦府:Bodalen_House
+索索贡省:Sosogun_Province
 网宿:Wangsu
-皓宽网络:Haokuan network
-坚江省:Kien Giang Province
+皓宽网络:Haokuan_network
+坚江省:Kien_Giang_Province
 歌华:Gehua
-那空那育府:Nakhon Nayuk
+那空那育府:Nakhon_Nayuk
 慕尼黑:Munich
-清莱府:Chiang Rai
+清莱府:Chiang_Rai
 拉萨市:Lhasa
-大分县:Oita Prefecture
-邯郸市:Handan City
+大分县:Oita_Prefecture
+邯郸市:Handan_City
 白俄罗斯:Belarus
 甲府:Kofu
 吉兰丹:Kelantan
 春武里府:Chonburi
 哥本哈根:Copenhagen
 乌干达:Uganda
-安提瓜和巴布达:Antigua and Barbuda
+安提瓜和巴布达:Antigua_and_Barbuda
 花卷:Hanamaki
-甘肃省:Gansu Province
+甘肃省:Gansu_Province
 危地马拉:Guatemala
-班达亚齐:Banda Aceh
-巴吞鲁日:Baton Rouge
-宿州市:Suzhou City
-衢州市:Quzhou City
-奎松省:Quezon Province
-清化省:Thanh Hoa Province
-圣马丁:Sint Maarten
+班达亚齐:Banda_Aceh
+巴吞鲁日:Baton_Rouge
+宿州市:Suzhou_City
+衢州市:Quzhou_City
+奎松省:Quezon_Province
+清化省:Thanh_Hoa_Province
+圣马丁:Sint_Maarten
 谷歌:Google
-圣诞岛:Christmas Island
+圣诞岛:Christmas_Island
 福岛县:Fukushima
 阿曼:Oman
-葫芦岛市:Huludao City
+葫芦岛市:Huludao_City
 贝克斯菲尔德:Bakersfield
 西双版纳:Xishuangbanna
-自贡市:Zigong City
-奠边省:Dien Bien Province
-宣城市:Xuancheng City
-素辇府:Su Ran
-南甘马粦省:Province of Kemachi do Sul
-连云港市:Lianyungang City
+自贡市:Zigong_City
+奠边省:Dien_Bien_Province
+宣城市:Xuancheng_City
+素辇府:Su_Ran
+南甘马粦省:Province_of_Kemachi_do_Sul
+连云港市:Lianyungang_City
 布兰普顿:Brampton
-茂名市:Maoming City
+茂名市:Maoming_City
 福山:Fukuyama
 海得拉巴:Hyderabad
-九江市:Jiujiang City
+九江市:Jiujiang_City
 日本:Japan
-法罗群岛:Faroe Islands
-安纳乍能府:Anna Charnoen
+法罗群岛:Faroe_Islands
+安纳乍能府:Anna_Charnoen
 第斯普尔:Dispur
 勿加泗:Begasi
 博尔塔拉:Bortala
-黑龙江广电:Heilongjiang Radio and Television
-香港宽频:Hong Kong Broadband
+黑龙江广电:Heilongjiang_Radio_and_Television
+香港宽频:Hong_Kong_Broadband
 厄瓜多尔:Ecuador
-南阿古桑省:Province of Agusan do Sul
-佛山市:Foshan city
+南阿古桑省:Province_of_Agusan_do_Sul
+佛山市:Foshan_city
 帕西格:Pasig
-林同省:Lam Dong Province
+林同省:Lam_Dong_Province
 伊卡卢伊特:Iqaluit
-卡林阿省:Kalina Province
-宁平省:Ninh Binh Province
-柬埔寨信威:Cambodia Xinwei
-帕罗奥多:Palo Aldo
-荃湾:Tsuen Wan
-教育网:Education Network
+卡林阿省:Kalina_Province
+宁平省:Ninh_Binh_Province
+柬埔寨信威:Cambodia_Xinwei
+帕罗奥多:Palo_Aldo
+荃湾:Tsuen_Wan
+教育网:Education_Network
 帕朗卡拉亚:Palangkaraya
-柳州市:Liuzhou City
+柳州市:Liuzhou_City
 埃及:Egypt
-八打雁省:Batangas Province
+八打雁省:Batangas_Province
 马哈拉施特拉:Maharashtra
 文山:Wenshan
 玉树:Yushu
-安康市:Ankang City
+安康市:Ankang_City
 南极洲:Antarctica
-青海省:Qinghai Province
-西内格罗省:Province of Negro Occidental
-东塔省:Dongta Province
-巴布亚新几内亚:Papua New Guinea
+青海省:Qinghai_Province
+西内格罗省:Province_of_Negro_Occidental
+东塔省:Dongta_Province
+巴布亚新几内亚:Papua_New_Guinea
 科索沃:Kosovo
 和田:Wada
-鸡西市:Jixi City
-乌隆府:Udon Thani
-池州市:Chizhou City
-华盛顿特区:Washington dc
+鸡西市:Jixi_City
+乌隆府:Udon_Thani
+池州市:Chizhou_City
+华盛顿特区:Washington_dc
 缅因:Maine
-南苏门答腊:South Sumatra
+南苏门答腊:South_Sumatra
 波黑:Bosnia
 宁夏:Ningxia
-保和省:Bohol Province
+保和省:Bohol_Province
 立陶宛:Lithuania
-宿迁市:Suqian City
-韩国电信:Korea Telecom
-龙岩市:Longyan City
+宿迁市:Suqian_City
+韩国电信:Korea_Telecom
+龙岩市:Longyan_City
 马斯喀特:Muscat
 马提尼克:Martinique
-盐湖城:Salt Lake City
-捷克:Czech Republic
-德州市:Dezhou City
-平阳省:Binh Duong Province
-邦加勿里洞:Bangka Beli Tung
-阳光海岸:Sunshine Coast
-南定省:Nam Dinh Province
-北加里曼丹:North Kalimantan
+盐湖城:Salt_Lake_City
+捷克:Czech_Republic
+德州市:Dezhou_City
+平阳省:Binh_Duong_Province
+邦加勿里洞:Bangka_Beli_Tung
+阳光海岸:Sunshine_Coast
+南定省:Nam_Dinh_Province
+北加里曼丹:North_Kalimantan
 佛列斯诺:Fresno
-渭南市:Weinan City
+渭南市:Weinan_City
 耶洛奈夫:Yellowknife
-安江省:An Giang Province
+安江省:An_Giang_Province
 黄石市:Yellowstone
-康波斯特拉谷省:Province of the Compectela Valley
+康波斯特拉谷省:Province_of_the_Compectela_Valley
 长野县:Nagano
-瓦利斯和富图纳群岛:Wallis and Futuna Islands
-绥化市:Suihua City
-湖北广电:Hubei Radio and Television
+瓦利斯和富图纳群岛:Wallis_and_Futuna_Islands
+绥化市:Suihua_City
+湖北广电:Hubei_Radio_and_Television
 乌兹别克斯坦:Uzbekistan
-达德拉纳加尔哈维利:Dadranagar Haveli
-辽源市:Liaoyuan City
-淮南市:Huainan City
-法国南部领地:Southern Territories of France
+达德拉纳加尔哈维利:Dadranagar_Haveli
+辽源市:Liaoyuan_City
+淮南市:Huainan_City
+法国南部领地:Southern_Territories_of_France
 儋州:Danzhou
 泛贝加尔:Pan-Baikal
 昆士兰:Queensland
-宿雾省:Province of Cebu
-营口市:Yingkou City
-马斯巴特省:Masbate Province
+宿雾省:Province_of_Cebu
+营口市:Yingkou_City
+马斯巴特省:Masbate_Province
 万丹:Banten
 西班牙:Spain
 厄立特里亚:Eritrea
-马辰:Ma Chen
+马辰:Ma_Chen
 拉贾斯坦:Rajasthan
 哈利法克斯:Halifax
-黑河市:Black River City
+黑河市:Black_River_City
 加蒂诺:Gatineau
-十堰市:Shiyan City
-山东青岛广电:Shandong Qingdao Radio and Television
+十堰市:Shiyan_City
+山东青岛广电:Shandong_Qingdao_Radio_and_Television
 安大略:Ontario
-东米萨米斯省:Eastern Misamis province
-俄罗斯电信:Russia Telecom
-佳木斯市:Jiamusi City
+东米萨米斯省:Eastern_Misamis_province
+俄罗斯电信:Russia_Telecom
+佳木斯市:Jiamusi_City
 冲绳县:Okinawa
 尼日尔:Niger
 马鲁古:Maluku
 西隆:Shillong
 康普顿:Compton
-隆安省:Long An Province
+隆安省:Long_An_Province
 阿富汗:Afghanistan
 辽宁:Liaoning
 昌吉:Changji
-四平市:Siping city
+四平市:Siping_city
 冰岛:Iceland
 底特律:Detroit
-鹤岗市:Hegang City
-山行县:Shanxing County
-巴蜀府:Ba Shu Province
-双鸭山市:Shuangyashan City
-武威市:Wuwei City
-达曼和第乌:Dammam and Diu
+鹤岗市:Hegang_City
+山行县:Shanxing_County
+巴蜀府:Ba_Shu_Province
+双鸭山市:Shuangyashan_City
+武威市:Wuwei_City
+达曼和第乌:Dammam_and_Diu
 新疆:Xinjiang
-石川县:Ishikawa Prefecture
-北拉瑙省:Province of Lanao North
-菲律宾长途电话公司:Philippine long-distance telephone company
-东营市:Dongying City
-西加里曼丹:West Kalimantan
-滨州市:Binzhou City
-金边:Phnom Penh
-同奈省:Dong Nai Province
-布基农省:Buquinon Province
-墨西哥电信:Mexico Telecom
-北苏拉威西:North Sulawesi
-富山县:Toyama Prefecture
+石川县:Ishikawa_Prefecture
+北拉瑙省:Province_of_Lanao_North
+菲律宾长途电话公司:Philippine_long-distance_telephone_company
+东营市:Dongying_City
+西加里曼丹:West_Kalimantan
+滨州市:Binzhou_City
+金边:Phnom_Penh
+同奈省:Dong_Nai_Province
+布基农省:Buquinon_Province
+墨西哥电信:Mexico_Telecom
+北苏拉威西:North_Sulawesi
+富山县:Toyama_Prefecture
 基洛纳:Kelowna
-互联优势:Connected Advantage
+互联优势:Connected_Advantage
 葡萄牙:Portugal
 帕尧府:Phayao
-永州市:Yongzhou City
+永州市:Yongzhou_City
 肯尼亚:Kenya
 汤斯维尔:Townsville
 蒙特利尔:Montreal
 百慕大:Bermuda
-玉溪市:Yuxi City
-伊富高省:Ifugao province
+玉溪市:Yuxi_City
+伊富高省:Ifugao_province
 尼日利亚:Nigeria
 法尔斯:Fars
 马达加斯加:Madagascar
-洛坤府:Nakhon Si Thammarat
-重庆广电:Chongqing Radio and Television
+洛坤府:Nakhon_Si_Thammarat
+重庆广电:Chongqing_Radio_and_Television
 江苏:Jiangsu
-新怡诗夏省:Province of Nova Ecija
+新怡诗夏省:Province_of_Nova_Ecija
 大城府:Ayutthaya
-唐山市:Tangshan city
-六盘水市:Liupanshui City
-哥打巴托省:Cotabato Province
-七台河市:Qitaihe City
+唐山市:Tangshan_city
+六盘水市:Liupanshui_City
+哥打巴托省:Cotabato_Province
+七台河市:Qitaihe_City
 康卡斯特:Comcast
 史托克顿:Stockton
 旭川:Asahikawa
 罗勇府:Rayong
-广州市:Guangzhou City
-江西省:Jiangxi Province
+广州市:Guangzhou_City
+江西省:Jiangxi_Province
 米尔顿:Milton
-抚顺市:Fushun city
+抚顺市:Fushun_city
 塞尔维亚:Serbia
-南奔府:Lamphun Province
-宜春市:Yichun City
-邦阿西楠省:Pangasinan Province
+南奔府:Lamphun_Province
+宜春市:Yichun_City
+邦阿西楠省:Pangasinan_Province
 伍伦贡:Wollongong
 努纳武特:Nunavut
-意大利电信:Telecom Italy
+意大利电信:Telecom_Italy
 本溪:Benxi
 卡纳塔克:Karnataka
-北萨马省:Northern Samar
-舟山市:Zhoushan City
+北萨马省:Northern_Samar
+舟山市:Zhoushan_City
 马塔兰:Mataram
-绵阳市:Mianyang City
-佛统府:Nakhon Pathom
-丹戎槟榔:Tanjung betel nut
-北奥塞梯:North Ossetia
+绵阳市:Mianyang_City
+佛统府:Nakhon_Pathom
+丹戎槟榔:Tanjung_betel_nut
+北奥塞梯:North_Ossetia
 川崎:Kawasaki
-香川县:Kagawa Prefecture
-素叻府:Surat Thani
-北马里亚纳群岛:Northern Mariana Islands
+香川县:Kagawa_Prefecture
+素叻府:Surat_Thani
+北马里亚纳群岛:Northern_Mariana_Islands
 布隆迪:Burundi
-浙江省:Zhejiang Province
-本格特省:Bengt Province
+浙江省:Zhejiang_Province
+本格特省:Bengt_Province
 意大利:Italy
 伊努维克:Inuvik
 阿德莱德:Adelaide
-宣光省:Tuyen Quang Province
-陕西省:Shaanxi Province
+宣光省:Tuyen_Quang_Province
+陕西省:Shaanxi_Province
 南阳:Nanyang
 霍利奥克:Holyoke
 古邦:Kupang
 墨尔本:Melbourne
-遂宁市:Suining City
-南澳大利亚:Southern Australia
+遂宁市:Suining_City
+南澳大利亚:Southern_Australia
 西雅图:Seattle
-东努沙登加拉:East Nusa Tenggara
+东努沙登加拉:East_Nusa_Tenggara
 伯灵顿:Burlington
 鹤冈:Tsuruoka
 普罗维登斯:Providence
-惹拉府:Yala Province
-红木城:Redwood City
-暖武里府:Nonthaburi Province
+惹拉府:Yala_Province
+红木城:Redwood_City
+暖武里府:Nonthaburi_Province
 昌迪加尔:Chandigarh
 阿萨巴斯卡:Athabasca
-抚州市:Fuzhou City
-西宁省:Tay Ninh Province
-通辽市:Tongliao City
+抚州市:Fuzhou_City
+西宁省:Tay_Ninh_Province
+通辽市:Tongliao_City
 坤甸:Pontianak
-嘉义县:Chiayi County
-巴丹省:Bataan Province
-岘港市:Da Nang City
+嘉义县:Chiayi_County
+巴丹省:Bataan_Province
+岘港市:Da_Nang_City
 弗雷德里克顿:Fredericton
 凉山:Liangshan
-宁波市:Ningbo City
-湛江市:Zhanjiang City
-清迈府:Chiang Mai Province
+宁波市:Ningbo_City
+湛江市:Zhanjiang_City
+清迈府:Chiang_Mai_Province
 摩尔多瓦:Moldova
 萨克拉门托:Sacramento
 电讯盈科:PCCW
-阿曼电信:Oman Telecom
+阿曼电信:Oman_Telecom
 奥地利:Austria
-福建广电:Fujian Radio and Television
-湄公网:Mekong Network
+福建广电:Fujian_Radio_and_Television
+湄公网:Mekong_Network
 艾伯塔:Alberta
 塞舌尔:Seychelles
 高知县:Kochi
-内蒙古:Inner Mongolia
-辽阳市:Liaoyang city
+内蒙古:Inner_Mongolia
+辽阳市:Liaoyang_city
 阿鲁巴:Aruba
-常德市:Changde City
-吉视传媒:Jishi Media
+常德市:Changde_City
+吉视传媒:Jishi_Media
 宋卡府:Songkhla
-河江省:Ha Giang Province
+河江省:Ha_Giang_Province
 詹谢普尔:Jamshedpoor
-顺化省:Hue Province
+顺化省:Hue_Province
 孟加拉:bengali
 林肯:Lincoln
 越南:Vietnam
@@ -717,14 +717,14 @@ SK宽带:SK Broadband
 亚美尼亚:Armenia
 日惹:YOGYAKARTA
 巴东:Padang
-上海驰联:Shanghai Chilian
+上海驰联:Shanghai_Chilian
 埃塞俄比亚:Ethiopia
-西巴布亚:West Papua
-平福省:Binh Phuoc Province
-潮州市:Chaozhou City
-鹿儿岛县:Kagoshima Prefecture
+西巴布亚:West_Papua
+平福省:Binh_Phuoc_Province
+潮州市:Chaozhou_City
+鹿儿岛县:Kagoshima_Prefecture
 里士满:Richmond
-星和移动:Stars and moves
+星和移动:Stars_and_moves
 普吉府:Phuket
 牙买加:Jamaica
 纽埃:Niue
@@ -732,527 +732,527 @@ SK宽带:SK Broadband
 加拿大:Canada
 密克罗尼西亚:Micronesia
 金斯敦:Kingston
-北卡罗来纳:North carolina
+北卡罗来纳:North_carolina
 山南:Shannan
-达州市:Dazhou City
+达州市:Dazhou_City
 松本:Matsumoto
 布拉格:Prague
 麦迪逊:Madison
 利比里亚:Liberia
 台中:Taichung
-合肥市:Hefei City
+合肥市:Hefei_City
 萨斯喀彻温:Saskatchewan
 坦桑尼亚:Tanzania
-马鞍山市:Ma'anshan City
+马鞍山市:Ma'anshan_City
 尖竹汶府:Chanthaburi
 瑙鲁:Nauru
-济宁市:Jining City
-安沛省:Yen Bai Province
-河北广电:Hebei Radio and Television
+济宁市:Jining_City
+安沛省:Yen_Bai_Province
+河北广电:Hebei_Radio_and_Television
 克里米亚:Crimea
 布加勒斯特:Bucharest
 喀麦隆:Cameroon
 埃德蒙顿:Edmonton
-罗杰斯通信:Rogers Communications
-千叶县:Chiba Prefecture
+罗杰斯通信:Rogers_Communications
+千叶县:Chiba_Prefecture
 加拉信府:Karasin
-新竹县:Hsinchu County
-巴拉望省:Palawan Province
-长崎县:Nagasaki Prefecture
-防城港市:Fangchenggang City
+新竹县:Hsinchu_County
+巴拉望省:Palawan_Province
+长崎县:Nagasaki_Prefecture
+防城港市:Fangchenggang_City
 哈密尔顿:Hamilton
 兰辛:Lansing
 比利时:Belgium
 里弗顿:Riverton
-北湾:North Bay
+北湾:North_Bay
 廊坊:Langfang
-爱媛县:Ehime Prefecture
-新疆广电:Xinjiang Radio and Television
+爱媛县:Ehime_Prefecture
+新疆广电:Xinjiang_Radio_and_Television
 卢森堡:Luxembourg
 天威:Tianwei
-卡皮斯省:Province of Kapis
-桂林市:City of Guilin
+卡皮斯省:Province_of_Kapis
+桂林市:City_of_Guilin
 明古鲁:Bengkulu
 巴真府:Prachinburi
 济源:Jiyuan
 马拉维:Malawi
-萨马省:Samar Province
+萨马省:Samar_Province
 古吉拉特:Gujarat
 丰田:Toyota
-潍坊市:Weifang City
+潍坊市:Weifang_City
 盘锦:Panjin
-阿克兰省:Akram Province
+阿克兰省:Akram_Province
 素可泰府:Sukhothai
-蚌埠市:Bengbu City
+蚌埠市:Bengbu_City
 图瓦卢:Tuvalu
-杰斐逊城:Jefferson City
-新竹市:Hsinchu City
-大连理工大学:Dalian University of Technology
-亚太电信:Asia Pacific Telecom
-宜昌市:Yichang City
+杰斐逊城:Jefferson_City
+新竹市:Hsinchu_City
+大连理工大学:Dalian_University_of_Technology
+亚太电信:Asia_Pacific_Telecom
+宜昌市:Yichang_City
 斐济:Fiji
-英属印度洋领地:British India Ocean Territory
-三描礼士省:Sambales Province
-拉斯维加斯:Las vegas
+英属印度洋领地:British_India_Ocean_Territory
+三描礼士省:Sambales_Province
+拉斯维加斯:Las_vegas
 沃达丰:Vodafone
-新喀里多尼亚:New Caledonia
-俄罗斯Tele2:Russia Tele2
+新喀里多尼亚:New_Caledonia
+俄罗斯Tele2:Russia_Tele2
 巴巴多斯:Barbados
 南宁市:Nanning
 桂林:Guilin
-新加坡电信:Singapore Telecom
+新加坡电信:Singapore_Telecom
 华沙:Warsaw
 布巴内斯瓦尔:Bhubaneswar
 安纳波利斯:Annapolis
-澳大利亚电信:Australia Telecom
-沈阳市:Shenyang city
+澳大利亚电信:Australia_Telecom
+沈阳市:Shenyang_city
 利特尔顿:Littleton
-阿尔拜省:Albay province
+阿尔拜省:Albay_province
 中国:China
-天驰网络:Tiantai network
+天驰网络:Tiantai_network
 黔南:Qiannan
-夜功府:Yegong House
-湘潭市:Xiangtan City
+夜功府:Yegong_House
+湘潭市:Xiangtan_City
 多米尼加:dominica
-乌兰察布市:Ulanqab City
+乌兰察布市:Ulanqab_City
 尤凯亚:Yukaea
-鹤壁市:Hebi City
+鹤壁市:Hebi_City
 八王子:Hachioji
-查谟和克什米尔:Jammu and Kashmir
+查谟和克什米尔:Jammu_and_Kashmir
 巴勒斯坦:Palestine
-布伊格电信:Bouygues Telecom
+布伊格电信:Bouygues_Telecom
 冈比亚:Gambia
 博伊西:Boise
 石家庄:Shijiazhuang
-台湾固网:Taiwan fixed network
+台湾固网:Taiwan_fixed_network
 汉诺威:Hanover
-西苏门答腊:West Sumatra
+西苏门答腊:West_Sumatra
 松山:Matsuyama
 保加利亚:Bulgaria
-大连市:Dalian City
+大连市:Dalian_City
 加尔各答:Calcutta
 砂拉越州:Sarawak
-和记电讯:Hutchison Telecommunications
-南达沃省:Davao Sur
-澎湖县:Penghu County
-新斯科舍:Nova scotia
+和记电讯:Hutchison_Telecommunications
+南达沃省:Davao_Sur
+澎湖县:Penghu_County
+新斯科舍:Nova_scotia
 以色列:Israel
 蒙古:Mongolia
-通化市:Tonghua City
+通化市:Tonghua_City
 东帝汶:Timor-Leste
-芹苴市:Can Tho City
-西宁市:Xining City
-苏禄省:Sulu Province
+芹苴市:Can_Tho_City
+西宁市:Xining_City
+苏禄省:Sulu_Province
 犹他:Utah
 巴拉圭:Paraguay
-大兴安岭:Great Khing'an Mountains
+大兴安岭:Great_Khing'an_Mountains
 澳大利亚:Australia
-百色市:Baise City
+百色市:Baise_City
 委内瑞拉:Venezuela
-法属波利尼西亚:French Polynesia
+法属波利尼西亚:French_Polynesia
 密西西比:Mississippi
-济南市:Jinan city
-北苏门答腊:North Sumatra
-青森县:Aomori Prefecture
-内湖省:Neihu Province
+济南市:Jinan_city
+北苏门答腊:North_Sumatra
+青森县:Aomori_Prefecture
+内湖省:Neihu_Province
 阿罕布拉:Alhambra
-澳大利亚首都领地:Australia Capital Territory
+澳大利亚首都领地:Australia_Capital_Territory
 苏里南:Suriname
 法兰克福:Frankfurt
 卡尔加里:Calgary
-圣保罗:Sao paulo
+圣保罗:Sao_paulo
 北大年府:Pattani
 博帕尔:Bhopal
-海口市:Haikou City
+海口市:Haikou_City
 菲律宾:Philippines
-素攀武里府:Suphan Buri
-北阿古桑省:Province of Agusan Norte
+素攀武里府:Suphan_Buri
+北阿古桑省:Province_of_Agusan_Norte
 铜仁:Tongren
-印度电信:Telekom India
+印度电信:Telekom_India
 素里:Surrey
-浙江华数:Zhejiang Huashu
-南昌市:Nanchang city
+浙江华数:Zhejiang_Huashu
+南昌市:Nanchang_city
 棉兰:Medan
-运城市:Yuncheng City
-辽宁广电:Liaoning Radio and Television
-南苏丹:South Sudan
-孝感市:Xiaogan City
+运城市:Yuncheng_City
+辽宁广电:Liaoning_Radio_and_Television
+南苏丹:South_Sudan
+孝感市:Xiaogan_City
 纽马克特:Newmarket
 弗吉尼亚:Virginia
 伊利诺伊:Illinois
-永富省:Vinh Phu Province
+永富省:Vinh_Phu_Province
 台湾省:Taiwan
 瓦努阿图:Vanuatu
-莱特省:Province of Leyte
-卡坦端内斯省:Province of Catandunes
-德里国家首都辖区:National Capital Territory, Delhi
+莱特省:Province_of_Leyte
+卡坦端内斯省:Province_of_Catandunes
+德里国家首都辖区:National_Capital_Territory,_Delhi
 马其顿:Macedonia
-亚太地区:Asia pacific
-北标府:Saraburi Province
-西苏拉威西:West Sulawesi
-占碑省:Jambi Province
+亚太地区:Asia_pacific
+北标府:Saraburi_Province
+西苏拉威西:West_Sulawesi
+占碑省:Jambi_Province
 剑桥:Cambridge
-内蒙古广电:Inner Mongolia Radio and Television
+内蒙古广电:Inner_Mongolia_Radio_and_Television
 路易斯安那:Louisiana
 巴鲁埃里:Baroueri
-邵阳市:Shaoyang City
+邵阳市:Shaoyang_City
 毛里求斯:Mauritius
-富安省:Phu Yen Province
+富安省:Phu_Yen_Province
 东京:Tokyo
-前江省:Tien Giang Province
-株洲市:Zhuzhou City
-西米萨米斯省:Province of Western Misamis
-信武里府:Shinburi Province
+前江省:Tien_Giang_Province
+株洲市:Zhuzhou_City
+西米萨米斯省:Province_of_Western_Misamis
+信武里府:Shinburi_Province
 华数:Huashu
-东达沃省:Davao East Province
+东达沃省:Davao_East_Province
 甲洞:Kepong
-惠州市:Huizhou City
+惠州市:Huizhou_City
 蒙古顿:Mongolia
-巴吞他尼府:Pathum Thani
+巴吞他尼府:Pathum_Thani
 石卷:Ishinomaki
-东南苏拉威西:Southeast Sulawesi
+东南苏拉威西:Southeast_Sulawesi
 襄阳:Xiangyang
-柔似蜜:Soft as honey
+柔似蜜:Soft_as_honey
 特伦顿:Trenton
-六安市:Lu'an City
-鞍山市:Anshan city
+六安市:Lu'an_City
+鞍山市:Anshan_city
 芬兰:Finland
-卡塔尔电信:Qatar Telecom
-新加坡第一通:Singapore First Pass
-山东省:Shandong Province
-昆嵩省:Kon Tum Province
+卡塔尔电信:Qatar_Telecom
+新加坡第一通:Singapore_First_Pass
+山东省:Shandong_Province
+昆嵩省:Kon_Tum_Province
 不丹:Bhutan
 印度尼西亚:Indonesia
-丽江市:Lijiang City
+丽江市:Lijiang_City
 圣朗贝尔:Saint-Lambert
 杰克逊:Jackson
-揭阳市:Jieyang City
-西北地区:Northwest Territories
-岐阜县:Gifu Prefecture
+揭阳市:Jieyang_City
+西北地区:Northwest_Territories
+岐阜县:Gifu_Prefecture
 望加锡:Makassar
-荆州市:Jingzhou City
-占碑:Occupy the monument
-巴中市:Bazhong City
-马京达瑙省:Maguindanao Province
-松原市:Matsubara City
-玉林市:Yulin City
+荆州市:Jingzhou_City
+占碑:Occupy_the_monument
+巴中市:Bazhong_City
+马京达瑙省:Maguindanao_Province
+松原市:Matsubara_City
+玉林市:Yulin_City
 巴基斯坦:Pakistan
-程逸府:Cheng Yat House
+程逸府:Cheng_Yat_House
 萨摩亚:Samoa
-山梨县:Yamanashi Prefecture
-马恩岛:Isle of Man
-石家庄市:Shijiazhuang City
-大雅加达:Greater Jakarta
+山梨县:Yamanashi_Prefecture
+马恩岛:Isle_of_Man
+石家庄市:Shijiazhuang_City
+大雅加达:Greater_Jakarta
 梅加拉亚:Meghalaya
-宁顺省:Ninh Thuan Province
-薄寮省:Bak Lieu Province
-楚雄:Chu Xiong
+宁顺省:Ninh_Thuan_Province
+薄寮省:Bak_Lieu_Province
+楚雄:Chu_Xiong
 松江:Matsue
-哥斯达黎加:Costa Rica
-布拉干省:Bulacan Province
+哥斯达黎加:Costa_Rica
+布拉干省:Bulacan_Province
 雅虎:Yahoo
 波特兰:Portland
-新奥尔良:New Orleans
+新奥尔良:New_Orleans
 格林纳达:Grenada
-长治市:Changzhi City
+长治市:Changzhi_City
 阿肯色:Arkansas
-广州驰联:Guangzhou Chilian
+广州驰联:Guangzhou_Chilian
 库拉索:Curaçao
 四日市:Yokkaichi
 俄克拉何马:Oklahoma
-圣菲:Santa Fe
-克拉玛依市:Karamay City
+圣菲:Santa_Fe
+克拉玛依市:Karamay_City
 乍得:Chad
 彭世洛府:Phitsanulok
-埼玉县:Saitama Prefecture
+埼玉县:Saitama_Prefecture
 南京市:Nanjing
 非洲地区:Africa
-晋中市:Jinzhong City
+晋中市:Jinzhong_City
 波莫纳:Pomona
-老挝电信企业:Laos telecommunications company
+老挝电信企业:Laos_telecommunications_company
 阿萨姆:Assam
 伯利兹:Belize
-安蒂克省:Province of Antique
+安蒂克省:Province_of_Antique
 波士顿:Boston
 海南:Hainan
-华富里府:Lopburi House
+华富里府:Lopburi_House
 阿根廷:Argentina
 利比亚:Libya
-圣贝纳迪诺:San bernardino
-许昌市:Xuchang City
+圣贝纳迪诺:San_bernardino
+许昌市:Xuchang_City
 纳什维尔:Nashville
 兰契:Ranchi
-江苏广电:Jiangsu Radio and Television
-莱芜市:Laiwu City
-多乐省:Dale Laur
+江苏广电:Jiangsu_Radio_and_Television
+莱芜市:Laiwu_City
+多乐省:Dale_Laur
 华盛顿:Washington
 安哥拉:Angola
-伊达纳格尔:Ida Nagar
+伊达纳格尔:Ida_Nagar
 希腊:Greece
 贵州:Guizhou
 微软:Microsoft
-崇左市:Chongzuo City
-内网IP:Private IP address
-楠榜省:Lampung Province
-奥兰群岛:Åland Islands
-西安交通大学:Xi'an Jiaotong University
-贵州省:Guizhou Province
-西贡电信:Saigon Telecom
-三宝颜锡布格省:Zamboanga Sibug Province
-平凉市:Pingliang City
-桃园:Tao yuan
-常州市:Changzhou City
-本溪市:Benxi City
-阜新市:Fuxin City
-临沧市:Lincang City
+崇左市:Chongzuo_City
+内网IP:Private_IP_address
+楠榜省:Lampung_Province
+奥兰群岛:Åland_Islands
+西安交通大学:Xi'an_Jiaotong_University
+贵州省:Guizhou_Province
+西贡电信:Saigon_Telecom
+三宝颜锡布格省:Zamboanga_Sibug_Province
+平凉市:Pingliang_City
+桃园:Tao_yuan
+常州市:Changzhou_City
+本溪市:Benxi_City
+阜新市:Fuxin_City
+临沧市:Lincang_City
 锡金:Sikkim
 马德里:Madrid
 马尼拉:Manila
 波兰:Poland
 特里普拉:Tripura
-犹太州:Jewish State
+犹太州:Jewish_State
 蒂鲁文南特布勒姆:Tiruvananthapurem
 长冈:Nagaoka
-北苏里高省:Norte Surigao Province
-南苏里高省:Surigao do South Province
+北苏里高省:Norte_Surigao_Province
+南苏里高省:Surigao_do_South_Province
 若列特:Jolet
 台北:Taipei
-乌海市:Wuhai City
-梧州市:Wuzhou City
-山东乐享广电:Shandong enjoys radio and television
+乌海市:Wuhai_City
+梧州市:Wuzhou_City
+山东乐享广电:Shandong_enjoys_radio_and_television
 延边:Yanbian
 佛罗里达:Florida
 柯钦:Cochin
-宝鸡市:Baoji City
-富寿省:Phu Tho Province
-加拿大贝尔:Bell of Canada
-河池市:Hechi City
-黄南:Huang Nan
-白银市:Silver City
+宝鸡市:Baoji_City
+富寿省:Phu_Tho_Province
+加拿大贝尔:Bell_of_Canada
+河池市:Hechi_City
+黄南:Huang_Nan
+白银市:Silver_City
 毛里塔尼亚:Mauritania
 德黑兰:Tehran
-班达楠榜:Bandar Lampung
-伊洛伊洛省:Iloilo Province
-泰州市:Taizhou City
-广治省:Quang Tri Province
-兴安盟:Hung Yen League
-昆明市:Kunming city
+班达楠榜:Bandar_Lampung
+伊洛伊洛省:Iloilo_Province
+泰州市:Taizhou_City
+广治省:Quang_Tri_Province
+兴安盟:Hung_Yen_League
+昆明市:Kunming_city
 索龙:Thrawn
-夜丰颂府:Ye Hong Son House
-漯河市:Luohe City
+夜丰颂府:Ye_Hong_Son_House
+漯河市:Luohe_City
 果洛:Golo
-山西省:Shanxi Province
+山西省:Shanxi_Province
 科摩罗:Comoros
-湖南省:Hunan Province
+湖南省:Hunan_Province
 富吉拉:Fujairah
 德宏:Dehong
-哈萨克斯坦电信:Kazakhstan Telecom
-河源市:Heyuan City
-阿里地区:Ali region
+哈萨克斯坦电信:Kazakhstan_Telecom
+河源市:Heyuan_City
+阿里地区:Ali_region
 塔吉克斯坦:Tajikistan
-花莲县:Hualien County
-庆和省:Khanh Hoa Province
-廊坊市:Langfang City
+花莲县:Hualien_County
+庆和省:Khanh_Hoa_Province
+廊坊市:Langfang_City
 百度:Baidu
 重庆:Chongqing
 特拉华:Delaware
 海南省:Hainan
-科技网:Science and Technology Network
-岳阳市:Yueyang City
-中非:Middle Africa
+科技网:Science_and_Technology_Network
+岳阳市:Yueyang_City
+中非:Middle_Africa
 彼得伯勒:Peterborough
-宁夏广电:Ningxia Radio and Television
-张掖市:Zhangye City
-佛得角:Cape Verde
-黄冈市:Huanggang City
+宁夏广电:Ningxia_Radio_and_Television
+张掖市:Zhangye_City
+佛得角:Cape_Verde
+黄冈市:Huanggang_City
 巴拿马:Panama
-西弗吉尼亚:West Virginia
-北荷兰:Northern Netherlands
+西弗吉尼亚:West_Virginia
+北荷兰:Northern_Netherlands
 科希马:Kohima
-嘉莱省:Gia Lai Province
+嘉莱省:Gia_Lai_Province
 德国:Germany
-锡基霍尔省:Siquijor Province
-亳州市:Bozhou City
+锡基霍尔省:Siquijor_Province
+亳州市:Bozhou_City
 甘地讷格尔:Gandhinagar
 勒克瑙:Lucknow
-董里府:Trang Province
-阳泉市:Yangquan City
-镇江市:Zhenjiang City
+董里府:Trang_Province
+阳泉市:Yangquan_City
+镇江市:Zhenjiang_City
 布罗克维尔:Brockville
-利雅得地区:Riyadh region
-绍兴市:Shaoxing City
+利雅得地区:Riyadh_region
+绍兴市:Shaoxing_City
 那加兰:Nagaland
-达府:Tak Fu
-商洛市:Shangluo City
+达府:Tak_Fu
+商洛市:Shangluo_City
 檀香山:Honolulu
-南苏拉威西:South Sulawesi
+南苏拉威西:South_Sulawesi
 蒙大拿:Montana
 玻利维亚:Bolivia
 天津:Tianjin
-江门市:Jiangmen City
-中华电信:Chunghwa Telecom
+江门市:Jiangmen_City
+中华电信:Chunghwa_Telecom
 关岛:Guam
-安庆市:Anqing City
-墨西哥美洲移动:Mexico Americas Mobile
-清远市:Qingyuan City
-高平省:Cao Bang Province
+安庆市:Anqing_City
+墨西哥美洲移动:Mexico_Americas_Mobile
+清远市:Qingyuan_City
+高平省:Cao_Bang_Province
 列支敦士登:Liechtenstein
 卢迪亚纳:Ludhiana
 湘西:Xiangxi
-延安市:Yan'an City
-哈尔滨市:Harbin City
-昭通市:Zhaotong City
+延安市:Yan'an_City
+哈尔滨市:Harbin_City
+昭通市:Zhaotong_City
 蒙彼利埃:Montpellier
 苏丹:Sudan
 密拉特:Meerut
-泰米尔纳德:Tamil Nadu
-福冈县:Fukuoka Prefecture
-新德里:New Delhi
+泰米尔纳德:Tamil_Nadu
+福冈县:Fukuoka_Prefecture
+新德里:New_Delhi
 梭罗:Thoreau
-和平省:Binh Hoa Province
-叻丕府:Ratchaburi Province
-甲米府:Krabi Province
-黄金海岸:Gold Coast
-科特迪瓦:Côte d’Ivoire
-南加里曼丹:South Kalimantan
+和平省:Binh_Hoa_Province
+叻丕府:Ratchaburi_Province
+甲米府:Krabi_Province
+黄金海岸:Gold_Coast
+科特迪瓦:Côte_d’Ivoire
+南加里曼丹:South_Kalimantan
 临夏市:City
-贺州市:Hezhou City
-红统府:Hung Tong House
+贺州市:Hezhou_City
+红统府:Hung_Tong_House
 托兰斯:Torrance
 马利布:Malibu
-阳江市:Yangjiang City
-湖南巨亚:Hunan Juya
-圣多美和普林西比:Sao Tome and Principe
-帕府:Phra Phu
+阳江市:Yangjiang_City
+湖南巨亚:Hunan_Juya
+圣多美和普林西比:Sao_Tome_and_Principe
+帕府:Phra_Phu
 尼泊尔:Nepal
-成都市:Chengdu City
+成都市:Chengdu_City
 奥斯汀:Austin
-玛哈沙拉堪府:Maha Sarakham
+玛哈沙拉堪府:Maha_Sarakham
 克尔曼:Kerman
 软银:SoftBank
 深圳市:Shenzhen
-杭州市:Hangzhou City
-锡林郭勒:Xilin Gol
-朝鲜:North Korea
+杭州市:Hangzhou_City
+锡林郭勒:Xilin_Gol
+朝鲜:North_Korea
 夏洛特:Charlotte
-宁德市:Ningde City
+宁德市:Ningde_City
 泗水:Surabaya
-滋贺县:Shiga Prefecture
+滋贺县:Shiga_Prefecture
 浦那:Pune
-美属萨摩亚:American Samoa
+美属萨摩亚:American_Samoa
 柏林:Berlin
-盐城市:Yancheng City
-莫达汉府:Modahan House
-乌鲁木齐市:Urumqi city
+盐城市:Yancheng_City
+莫达汉府:Modahan_House
+乌鲁木齐市:Urumqi_city
 摩纳哥:Monaco
-甘南市:Gannan City
-承德市:Chengde City
+甘南市:Gannan_City
+承德市:Chengde_City
 几内亚比绍:Guinea-Bissau
 茂物:Bogor
 安圭拉:Anguilla
-山口县:Yamaguchi Prefecture
-披集府:Phiji Province
+山口县:Yamaguchi_Prefecture
+披集府:Phiji_Province
 阿拉善:Alxa
-武里南府:Buriram Province
-中山市:Zhongshan City
-SK电讯:SK Telecom
+武里南府:Buriram_Province
+中山市:Zhongshan_City
+SK电讯:SK_Telecom
 巴音郭楞:Bayingoleng
-玻璃市:City of Perlis
-湖南有线:Hunan Cable
-宜兰县:Yilan County
+玻璃市:City_of_Perlis
+湖南有线:Hunan_Cable
+宜兰县:Yilan_County
 聊城市:Liaocheng
-萍乡市:Pingxiang City
+萍乡市:Pingxiang_City
 泽西岛:Jersey
-奥罗拉省:Province of Aurora
-冈山县:Okayama Prefecture
-塔城:Tower City
-临沂市:Linyi City
+奥罗拉省:Province_of_Aurora
+冈山县:Okayama_Prefecture
+塔城:Tower_City
+临沂市:Linyi_City
 塔科马:Tacoma
 洪都拉斯:Honduras
-福井县:Fukui Prefecture
+福井县:Fukui_Prefecture
 上海市:Shanghai
 安汶:Ambon
 图文巴:Toowoomba
 加蓬:Gabon
 银川市:Yinchuan
-广义省:Broad Sense Province
-层峰网络:Strato-peak network
-苗栗县:Miaoli County
-鸟取县:Tottori Prefecture
-黎刹省:Rizal Province
-色军府:Color Military Mansion
+广义省:Broad_Sense_Province
+层峰网络:Strato-peak_network
+苗栗县:Miaoli_County
+鸟取县:Tottori_Prefecture
+黎刹省:Rizal_Province
+色军府:Color_Military_Mansion
 大理:Dali
-厦门市:Xiamen City
-圣基茨和尼维斯:Saint Kitts and Nevis
-圣加夫列夫尔:St. Gavlevre
+厦门市:Xiamen_City
+圣基茨和尼维斯:Saint_Kitts_and_Nevis
+圣加夫列夫尔:St._Gavlevre
 海东:Haidong
-锦州市:Jinzhou City
+锦州市:Jinzhou_City
 基奇纳:Kitchener
 怀特霍斯:Whitehorse
 威海市:Weihai
 阿里巴巴:Alibaba
-南广平:Nan Quang Binh
+南广平:Nan_Quang_Binh
 温哥华:Vancouver
 奥克维尔:Oakville
 爱达荷:Idaho
-宫城县:Miyagi Prefecture
-圣约翰:St. John
-石嘴山市:Shizuishan City
+宫城县:Miyagi_Prefecture
+圣约翰:St._John
+石嘴山市:Shizuishan_City
 联通:Unicom
-中加里曼丹:Central Kalimantan
-漳州市:Zhangzhou City
+中加里曼丹:Central_Kalimantan
+漳州市:Zhangzhou_City
 安道尔:Andorra
 斯普林菲尔德:Springfield
-呼和浩特市:Hohhot City
+呼和浩特市:Hohhot_City
 奥兰治:Orange
 巴地斗顿:Badidouton
 诺伊达:Noida
 沃尔夫维尔:Wolfville
 北京市:Beijing
-太原市:Taiyuan City
-南伊罗戈省:Ilocos do Sul
-新不伦瑞克:New Brunswick
+太原市:Taiyuan_City
+南伊罗戈省:Ilocos_do_Sul
+新不伦瑞克:New_Brunswick
 河北:Hebei
 那格浦尔:Nagpur
 阿勒泰:Altai
 吉布提:Djibouti
 广电:Broadcasting
-呵叻府:Nakhon Ratchasima
+呵叻府:Nakhon_Ratchasima
 斯德哥尔摩:Stockholm
 巴特那:Patna
-梅州市:Meizhou City
+梅州市:Meizhou_City
 伊朗:Iran
 喜马偕尔:Himachal
-河静省:Ha Tinh Province
+河静省:Ha_Tinh_Province
 上海:Shanghai
-北乾省:Beigan Province
-莆田市:Putian City
-赤峰市:Chifeng City
-吉隆坡:Kuala Lumpur
+北乾省:Beigan_Province
+莆田市:Putian_City
+赤峰市:Chifeng_City
+吉隆坡:Kuala_Lumpur
 瓜德罗普:Guadeloupe
-山萝省:Son Ne province
+山萝省:Son_Ne_province
 河南:Henan
 多科莫:Docomo
-广宁省:Quang Ninh Province
-海阳省:Hai Duong Province
+广宁省:Quang_Ninh_Province
+海阳省:Hai_Duong_Province
 果阿:Goa
-金华市:Jinhua City
-汕头市:Shantou City
+金华市:Jinhua_City
+汕头市:Shantou_City
 塞勒姆:Salem
-秦皇岛市:Qinhuangdao City
+秦皇岛市:Qinhuangdao_City
 阿什本:Ashburn
 帕劳:Palau
-荷属圣马丁:Sint Maarten, Netherlands
-雅安市:Ya'an City
+荷属圣马丁:Sint_Maarten,_Netherlands
+雅安市:Ya'an_City
 首尔:Seoul
 斯洛文尼亚:Slovenia
 维杰亚瓦达:Vijayawada
-重庆市:Chongqing Municipality
-拉允隆省:Rayunlong Province
+重庆市:Chongqing_Municipality
+拉允隆省:Rayunlong_Province
 莱索托:Lesotho
 老挝:Laos
 移动:move
-北领地:Northern Territory
+北领地:Northern_Territory
 吉打州:Kedah
 古尔冈:Gurgaon
 登巴萨:Denpasar
@@ -1260,201 +1260,201 @@ SK电讯:SK Telecom
 长门:Nagato
 查亚普拉:Jayapura
 苏州:Suzhou
-天水市:Tianshui City
-淮北市:Huaibei City
-徐州市:Xuzhou City
-朗布隆省:Province of Rambronn
-沃达丰印度:Vodafone India
+天水市:Tianshui_City
+淮北市:Huaibei_City
+徐州市:Xuzhou_City
+朗布隆省:Province_of_Rambronn
+沃达丰印度:Vodafone_India
 大阪:Osaka
-广岛县:Hiroshima Prefecture
-难府:Difficult house
-嘉义市:Chiayi City
+广岛县:Hiroshima_Prefecture
+难府:Difficult_house
+嘉义市:Chiayi_City
 阿塞拜疆:Azerbaijan
 汕头:Shantou
-忻州市:Xinzhou City
-越南电信:Viet Nam Telecom
+忻州市:Xinzhou_City
+越南电信:Viet_Nam_Telecom
 迪马布尔:Dimapur
-黔西南:Southwest Guizhou
+黔西南:Southwest_Guizhou
 费城:Philadelphia
-中苏拉威西:Central Sulawesi
+中苏拉威西:Central_Sulawesi
 阿联酋:U.A.E
 三马林达:Sammarinda
 安徽:Anhui
-日照市:Rizhao City
+日照市:Rizhao_City
 圭亚那:Guyana
-邦板牙省:Pampanga Province
-三明市:Sanming City
-日惹特区:Yogyakarta Special Zone
+邦板牙省:Pampanga_Province
+三明市:Sanming_City
+日惹特区:Yogyakarta_Special_Zone
 康沃尔:Cornwall
-太原省:Thai Nguyen Province
+太原省:Thai_Nguyen_Province
 塞浦路斯:Cyprus
 科罗拉多:Colorado
-黎逸府:Le Et
+黎逸府:Le_Et
 铁通:Tietong
-特伦甘地:Teren Gandhi
-越南军用通讯:Viet Nam military communications
-衡水市:Hengshui City
-东爪哇:East Java
-北榄府:Samut Prakan
+特伦甘地:Teren_Gandhi
+越南军用通讯:Viet_Nam_military_communications
+衡水市:Hengshui_City
+东爪哇:East_Java
+北榄府:Samut_Prakan
 贝尔维尔:Belleville
 旁遮普:Punjab
 夏延:Cheyenne
-黄山市:Huangshan City
+黄山市:Huangshan_City
 蚌埠:Bengbu
 奥古斯塔:Augusta
-斯里兰卡:Sri Lanka
+斯里兰卡:Sri_Lanka
 哈里亚纳:Haryana
-广安市:Quang An City
-荆门市:Jingmen City
+广安市:Quang_An_City
+荆门市:Jingmen_City
 电信:telecommunications
-郑州市:Zhengzhou City
-湖州市:Huzhou City
-四川广电:Sichuan Radio and Television
-东加里曼丹:East Kalimantan
+郑州市:Zhengzhou_City
+湖州市:Huzhou_City
+四川广电:Sichuan_Radio_and_Television
+东加里曼丹:East_Kalimantan
 登嘉楼:Terengganu
 豪登:Gauteng
-福州市:Fuzhou City
+福州市:Fuzhou_City
 柬埔寨:Cambodia
 古巴:Cuba
-南哥打巴托省:South Kotabato Province
-宜宾市:Yibin City
-平定省:Binh Dinh Province
+南哥打巴托省:South_Kotabato_Province
+宜宾市:Yibin_City
+平定省:Binh_Dinh_Province
 穆阿拉:Muala
 墨西哥:Mexico
 米佐拉姆:Mizoram
-濮阳市:Puyang City
+濮阳市:Puyang_City
 巴布亚:Papua
 查谟:Jammu
-法属圭亚那:French Guiana
+法属圭亚那:French_Guiana
 纳罗利:Naroli
-特立尼达和多巴哥:Trinidad and Tobago
-布基纳法索:Burkina Faso
-吉林市:Jilin City
+特立尼达和多巴哥:Trinidad_and_Tobago
+布基纳法索:Burkina_Faso
+吉林市:Jilin_City
 里贾纳:Regina
-民都洛省:Mindoro province
+民都洛省:Mindoro_province
 佐贺县:Saga
 北海道:Hokkaido
-橘子电信:Orange Telecom
+橘子电信:Orange_Telecom
 米兰:Milan
 俾斯麦:Bismarck
-和记电讯印尼:Hutchison Telecommunications Indonesia
-大庆市:Daqing City
-固原市:Guyuan City
+和记电讯印尼:Hutchison_Telecommunications_Indonesia
+大庆市:Daqing_City
+固原市:Guyuan_City
 雪兰莪:Selangor
-沧州市:Cangzhou City
+沧州市:Cangzhou_City
 罗马:Rome
-屏东县:Pingtung County
+屏东县:Pingtung_County
 拉脱维亚:Latvia
-卡加烟省:Kajayan Province
+卡加烟省:Kajayan_Province
 密苏里:Missouri
-新余市:Xinyu City
+新余市:Xinyu_City
 威斯康星:Wisconsin
-邢台市:Xingtai City
-黑龙江省:Heilongjiang Province
+邢台市:Xingtai_City
+黑龙江省:Heilongjiang_Province
 辛辛那提:Cincinnati
-汉中市:Hanzhong City
-静冈县:Shizuoka Prefecture
+汉中市:Hanzhong_City
+静冈县:Shizuoka_Prefecture
 丹佛:Denver
-堪萨斯城:Kansas city
-河南广电:Henan Radio and Television
-攀枝花市:Panzhihua City
+堪萨斯城:Kansas_city
+河南广电:Henan_Radio_and_Television
+攀枝花市:Panzhihua_City
 堪萨斯:Kansas
 印第安纳波利斯:Indianapolis
 普哇加达:Puwakarta
-淮安市:Huai'an City
+淮安市:Huai'an_City
 德里:Delhi
 达叻府:Trat
-沙田:Sha tin
+沙田:Sha_tin
 好莱坞:Hollywood
 新加坡:Singapore
-南加利福尼亚:Southern California
-北宁省:Bac Ninh Province
+南加利福尼亚:Southern_California
+北宁省:Bac_Ninh_Province
 达曼:Dammam
 山景:Mountain
 宾夕法尼亚:Pennsylvania
 四色菊府:Sisarat
 巴黎:Paris
-梵蒂冈:Vatican City
+梵蒂冈:Vatican_City
 甘南:Gannan
 广东:Guangdong
-北甘马粦省:Norte Kemachi Province
+北甘马粦省:Norte_Kemachi_Province
 多哥:Togo
 巴哈马:Bahamas
 土库曼斯坦:Turkmenistan
-北伊罗戈省:Ilocos Norte Province
-那曲:That song
-缅甸电信:Myanmar Telecom
+北伊罗戈省:Ilocos_Norte_Province
+那曲:That_song
+缅甸电信:Myanmar_Telecom
 维沙卡帕特南:Visakhapatnam
-所罗门群岛:Solomon Islands
+所罗门群岛:Solomon_Islands
 奥克兰:Oakland
 万鸦老:Manado
 几内亚:Guinea
-河北省:Hebei Province
-世纪互联:Century Internet
-云林县:Yunlin County
-三门峡市:Sanmenxia City
-和歌山县:Wakayama Prefecture
-圣马力诺:San Marino
+河北省:Hebei_Province
+世纪互联:Century_Internet
+云林县:Yunlin_County
+三门峡市:Sanmenxia_City
+和歌山县:Wakayama_Prefecture
+圣马力诺:San_Marino
 安蒂戈尼什:Antigonish
-嘉峪关市:Jiayuguan City
+嘉峪关市:Jiayuguan_City
 巴淡岛:Batam
-圣卢西亚:Saint Lucia
-随州市:Suizhou City
+圣卢西亚:Saint_Lucia
+随州市:Suizhou_City
 马来西亚:Malaysia
-甘烹碧府:Kamphaeng Phet
+甘烹碧府:Kamphaeng_Phet
 汤加:Tonga
 赛城:Cyberjaya
 多伦多:Toronto
 查尔斯顿:Charleston
-互联网泰国:Internet Thailand
+互联网泰国:Internet_Thailand
 哈密:Hami
 霹雳州:Perak
-德岛县:Tokushima Prefecture
+德岛县:Tokushima_Prefecture
 莫斯科:Moscow
-方正宽带:Founder Broadband
-郴州市:Chenzhou City
-北达科他:North dakota
-普洱市:Pu'er City
+方正宽带:Founder_Broadband
+郴州市:Chenzhou_City
+北达科他:North_dakota
+普洱市:Pu'er_City
 博阿努瓦:Boanuowa
 亚马逊:Amazon
 印多尔:Indore
-栃木县:Tochigi Prefecture
-珠江宽频:Pearl River Broadband
-巴彦淖尔市:Bayannur City
+栃木县:Tochigi_Prefecture
+珠江宽频:Pearl_River_Broadband
+巴彦淖尔市:Bayannur_City
 海北:Haibei
 堺:Sakai
-香港有线:Hong Kong Cable
+香港有线:Hong_Kong_Cable
 摩洛哥:Morocco
-马林杜克省:Marinduque Province
-来宾市:Laibin City
+马林杜克省:Marinduque_Province
+来宾市:Laibin_City
 特洛伊:Troy
-爱德华王子岛:Prince Edward Island
-法国电信:France Telecom
-圣莫尼卡:Santa monica
-枣庄市:Zaozhuang City
+爱德华王子岛:Prince_Edward_Island
+法国电信:France_Telecom
+圣莫尼卡:Santa_monica
+枣庄市:Zaozhuang_City
 巴里:Barry
-四川省:Sichuan Province
+四川省:Sichuan_Province
 布城:Putrajaya
-河南省:Henan Province
-秋田县:Akita Prefecture
+河南省:Henan_Province
+秋田县:Akita_Prefecture
 哈萨克斯坦:Kazakhstan
 阿拉斯加:Alaska
-东莞市:Dongguan City
+东莞市:Dongguan_City
 昌都:Qamdo
-无锡市:Wuxi City
+无锡市:Wuxi_City
 尼加拉瓜:Nicaragua
-德阳市:Deyang City
-南非:South Africa
-哈南省:Hanan Province
-廊开府:Nong Khai Province
-朔庄省:Shuo Trang Province
-焦作市:Jiaozuo City
-滁州市:Chuzhou City
-廖内群岛:Riau Islands
-洛阳市:Luoyang City
+德阳市:Deyang_City
+南非:South_Africa
+哈南省:Hanan_Province
+廊开府:Nong_Khai_Province
+朔庄省:Shuo_Trang_Province
+焦作市:Jiaozuo_City
+滁州市:Chuzhou_City
+廖内群岛:Riau_Islands
+洛阳市:Luoyang_City
 山西:Shanxi
 荷兰:Netherlands
-朝阳市:Chaoyang City
+朝阳市:Chaoyang_City
 迈阿密:Miami
 黑山:Montenegro
 本那比:Burnaby
@@ -1462,97 +1462,97 @@ SK电讯:SK Telecom
 斯洛伐克:Slovakia
 圭尔夫:Guelph
 达拉斯:Dallas
-马绍尔群岛:Marshall Islands
-北方邦:Uttar Pradesh
-张家界市:Zhangjiajie City
+马绍尔群岛:Marshall_Islands
+北方邦:Uttar_Pradesh
+张家界市:Zhangjiajie_City
 瓦斯科:Vasco
-西澳大利亚:Western Australia
+西澳大利亚:Western_Australia
 黑森:Hesse
 亚利桑那:Arizona
 小石城:Little
 阿尔及利亚:Algeria
 泰国:Thailand
 瑞士:Switzerland
-萨兰加尼省:Sarangani Province
+萨兰加尼省:Sarangani_Province
 三宝垄:Semarang
 休斯顿:Houston
-纽芬兰与拉布拉多:New Finland and Labrador
-会津若松:Aizu Wakamatsu
-圣何塞:San jose
-台湾大哥大:Taiwan Big Brother
+纽芬兰与拉布拉多:New_Finland_and_Labrador
+会津若松:Aizu_Wakamatsu
+圣何塞:San_jose
+台湾大哥大:Taiwan_Big_Brother
 堪培拉:Canberra
 纳闽:Labuan
 森尼韦尔:Sunnyvale
-西孟加拉:West Bengal
+西孟加拉:West_Bengal
 乌兰巴托:Ulaanbaatar
 春蓬府:Chumphon
-诺福克岛:Norfolk Island
-那空帕农府:Nakhon Phanom
+诺福克岛:Norfolk_Island
+那空帕农府:Nakhon_Phanom
 别府:Beppu
 威瑞森:Verizon
-眉山市:Meishan City
+眉山市:Meishan_City
 班加罗尔:Bangalore
-槟知省:Penang Twig Province
+槟知省:Penang_Twig_Province
 那霸:Naha
-盘锦市:Panjin City
-衡阳市:Hengyang city
-汕尾市:Shanwei City
+盘锦市:Panjin_City
+衡阳市:Hengyang_city
+汕尾市:Shanwei_City
 欧洲:Europe
 贾坎德:Jharkhand
-南阳市:Nanyang City
+南阳市:Nanyang_City
 基隆:Keelung
-保山市:Baoshan City
-亚齐特区:Aceh District
+保山市:Baoshan_City
+亚齐特区:Aceh_District
 雷德蒙德:Redmond
 纽卡斯尔:Newcastle
 北柳府:Chachoengsao
-江苏省:Jiangsu Province
-中央邦:Madhya Pradesh
+江苏省:Jiangsu_Province
+中央邦:Madhya_Pradesh
 林芝:Nyingchi
-长滩:Long Beach
+长滩:Long_Beach
 海伦娜:Helena
-烟台市:Yantai City
+烟台市:Yantai_City
 伊犁:Ili
-北温哥华:North Vancouver
-天津市:Tianjin City
+北温哥华:North_Vancouver
+天津市:Tianjin_City
 名古屋:Nagoya
 阿姆斯特丹:Amsterdam
-罗得岛:Rhode island
-卡森城:Carson City
-商丘市:Shangqiu City
-英属维尔京群岛:British Virgin Islands
+罗得岛:Rhode_island
+卡森城:Carson_City
+商丘市:Shangqiu_City
+英属维尔京群岛:British_Virgin_Islands
 维多利亚:Victoria
 加纳:Ghana
 夏洛特敦:Charlottetown
-咸宁市:Xianning City
+咸宁市:Xianning_City
 凤凰城:Phoenix
-山东广电:Shandong Radio and Television
+山东广电:Shandong_Radio_and_Television
 阿尔巴尼亚:Albania
-金门县:Kinmen County
+金门县:Kinmen_County
 内珀维尔:Naperville
 滑铁卢:Waterloo
-熊本县:Kumamoto Prefecture
-远传电信:Far EasTone telecommunications
+熊本县:Kumamoto_Prefecture
+远传电信:Far_EasTone_telecommunications
 沙巴州:Sabah
-胡志明:Ho Chi Minh
+胡志明:Ho_Chi_Minh
 文莱:Brunei
 高雄:Kaohsiung
 京都:Kyoto
 内布拉斯加:Nebraska
 柔佛州:Johor
-网上网:Online networking
+网上网:Online_networking
 长春:Changchun
-平顺省:Binh Thuan Province
+平顺省:Binh_Thuan_Province
 艾藻尔:Aizawl
-庆阳市:Qingyang City
-孔敬府:Khon Kaen
-老街省:Lao Cai province
-怒江:Nu River
-印尼金光:Indonesian Commar Masar
+庆阳市:Qingyang_City
+孔敬府:Khon_Kaen
+老街省:Lao_Cai_province
+怒江:Nu_River
+印尼金光:Indonesian_Commar_Masar
 哥伦比亚:Colombia
-有线通:Wired through
-巴基斯坦电信:Pakistan Telecom
-安阳市:Anyang city
+有线通:Wired_through
+巴基斯坦电信:Pakistan_Telecom
+安阳市:Anyang_city
 马里:Mali
-泸州市:Luzhou City
-南投县:Nantou County
+泸州市:Luzhou_City
+南投县:Nantou_County
